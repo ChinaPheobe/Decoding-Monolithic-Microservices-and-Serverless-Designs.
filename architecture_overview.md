@@ -1,4 +1,4 @@
-# Understanding Software Architecture
+# Decoding Software Architecture
 
 In the ever-evolving world of software architecture, understanding the strengths and limitations of different design approaches is crucial. Whether you’re building a small-scale application or a massive, enterprise-level system, the choice between monolithic, microservices, or serverless architectures can profoundly impact scalability, development complexity, deployment, maintenance, and cost.
 
